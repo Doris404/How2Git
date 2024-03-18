@@ -1,0 +1,6 @@
+[submodule "ProjectMan/model/DP-CGAN"]
+	path = ProjectMan/model/DP-CGAN
+	url = https://github.com/Doris404/DP-CGAN
+[submodule "ProjectMan/model/P3GM"]
+	path = ProjectMan/model/P3GM
+	url = https://github.com/Doris404/P3GM
